@@ -1,4 +1,4 @@
-#include<stdio.h>
+
 //====================================
 float ctf(float c)
 {
