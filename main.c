@@ -30,12 +30,12 @@ int main()
     printf("19. Enter 19 for Reaumur to Kelvin conversion\n");
     printf("20. Enter 20 for Reaumur to Rankine conversion\n");
 
-    printf("21. Enter 1 for Watt to Kilowatt conversion\n");
-    printf("22. Enter 2 for Watt to HP conversion\n");
-    printf("23. Enter 3 for Kilowatt to watt conversion\n");
-    printf("24. Enter 4 for Kilowatt to HP conversion\n");
-    printf("25. Enter 5 for HP to Watt conversion\n");
-    printf("26. Enter 6 for HP to Kilowatt conversion\n");
+    printf("21. Enter 21 for Watt to Kilowatt conversion\n");
+    printf("22. Enter 22 for Watt to HP conversion\n");
+    printf("23. Enter 23 for Kilowatt to watt conversion\n");
+    printf("24. Enter 24 for Kilowatt to HP conversion\n");
+    printf("25. Enter 25 for HP to Watt conversion\n");
+    printf("26. Enter 26 for HP to Kilowatt conversion\n");
     scanf("%d", &coversion);
 
     switch(coversion)
